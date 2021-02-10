@@ -1,0 +1,15 @@
+h1, nav {
+  background-color: #639;
+}
+
+footer {
+  background-color: #c7c2cc;
+  color: red;
+  display: grid;
+  transform: scale();
+  box-pack: center;
+}
+
+.aside {
+  background-color: #00ff2a;
+}
